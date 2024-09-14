@@ -1,12 +1,11 @@
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
-        for(int a = 0; a < numbers.length; a++ ){
-            for(int b = a + 1; b < numbers.length; b++) {
-                if(numbers[a] + numbers[b] == target) {
-                    return new int[]{a+1, b+1};
-                }
-            }
+        int l = 0;
+        int r = numbers.length -1;
+        while(numbers[l] + numbers[r] != target) {
+            if(numbers[l] + numbers[r] < target) l++;
+            else r--;
         }
-        throw new IllegalArgumentException("No two sum solution");
+        return new int[] {l+1, r+1};
     }
 }
