@@ -8,3 +8,15 @@ This repository is a collection of DSA problem solutions from LeetCode. The purp
 - Problem statement
 - Solution code in Java
 - Time and space complexity analysis
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Bhavyansh19/Leetcode/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Bhavyansh19/Leetcode/tree/main/0001-two-sum/) | Easy |
+<!---LeetCode Topics End-->
