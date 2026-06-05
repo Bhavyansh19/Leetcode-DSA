@@ -1,9 +1,11 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int num = 0;
-        for(int number:nums) {
-            num = num^number;
+        int n = nums.length;
+        int index = 0;
+
+        for(int i = 0; i < n; i++){
+            index = index^nums[i];
         }
-        return num;
+        return index;
     }
 }
