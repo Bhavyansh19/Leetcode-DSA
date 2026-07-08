@@ -16,6 +16,7 @@ This repository is a collection of DSA problem solutions from LeetCode. The purp
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Bhavyansh19/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhavyansh19/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0036-valid-sudoku](https://github.com/Bhavyansh19/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0053-maximum-subarray](https://github.com/Bhavyansh19/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0136-single-number](https://github.com/Bhavyansh19/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/Bhavyansh19/Leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -27,6 +28,7 @@ This repository is a collection of DSA problem solutions from LeetCode. The purp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Bhavyansh19/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0036-valid-sudoku](https://github.com/Bhavyansh19/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0217-contains-duplicate](https://github.com/Bhavyansh19/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -58,4 +60,8 @@ This repository is a collection of DSA problem solutions from LeetCode. The purp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Bhavyansh19/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/Bhavyansh19/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->
