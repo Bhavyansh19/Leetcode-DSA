@@ -17,6 +17,7 @@ This repository is a collection of DSA problem solutions from LeetCode. The purp
 | [0001-two-sum](https://github.com/Bhavyansh19/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhavyansh19/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0036-valid-sudoku](https://github.com/Bhavyansh19/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Bhavyansh19/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Bhavyansh19/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0136-single-number](https://github.com/Bhavyansh19/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/Bhavyansh19/Leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -34,6 +35,7 @@ This repository is a collection of DSA problem solutions from LeetCode. The purp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhavyansh19/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Bhavyansh19/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0189-rotate-array](https://github.com/Bhavyansh19/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Bhavyansh19/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 ## Math
@@ -51,6 +53,7 @@ This repository is a collection of DSA problem solutions from LeetCode. The purp
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Bhavyansh19/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Bhavyansh19/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -64,4 +67,12 @@ This repository is a collection of DSA problem solutions from LeetCode. The purp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Bhavyansh19/Leetcode/tree/main/0036-valid-sudoku/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Bhavyansh19/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Bhavyansh19/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
