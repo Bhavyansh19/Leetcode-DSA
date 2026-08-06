@@ -75,4 +75,8 @@ This repository is a collection of DSA problem solutions from LeetCode. The purp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Bhavyansh19/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1873-calculate-special-bonus](https://github.com/Bhavyansh19/Leetcode/tree/main/1873-calculate-special-bonus/) | Easy |
 <!---LeetCode Topics End-->
