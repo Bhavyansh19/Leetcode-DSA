@@ -81,6 +81,7 @@ This repository is a collection of DSA problem solutions from LeetCode. The purp
 | [0175-combine-two-tables](https://github.com/Bhavyansh19/Leetcode/tree/main/0175-combine-two-tables/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Bhavyansh19/Leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Bhavyansh19/Leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Bhavyansh19/Leetcode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Bhavyansh19/Leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1795-rearrange-products-table](https://github.com/Bhavyansh19/Leetcode/tree/main/1795-rearrange-products-table/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/Bhavyansh19/Leetcode/tree/main/1873-calculate-special-bonus/) | Easy |
