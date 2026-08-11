@@ -83,4 +83,5 @@ This repository is a collection of DSA problem solutions from LeetCode. The purp
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Bhavyansh19/Leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1795-rearrange-products-table](https://github.com/Bhavyansh19/Leetcode/tree/main/1795-rearrange-products-table/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/Bhavyansh19/Leetcode/tree/main/1873-calculate-special-bonus/) | Easy |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Bhavyansh19/Leetcode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
