@@ -84,6 +84,7 @@ This repository is a collection of DSA problem solutions from LeetCode. The purp
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Bhavyansh19/Leetcode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Bhavyansh19/Leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/Bhavyansh19/Leetcode/tree/main/1693-daily-leads-and-partners/) | Easy |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/Bhavyansh19/Leetcode/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1795-rearrange-products-table](https://github.com/Bhavyansh19/Leetcode/tree/main/1795-rearrange-products-table/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/Bhavyansh19/Leetcode/tree/main/1873-calculate-special-bonus/) | Easy |
 | [1890-the-latest-login-in-2020](https://github.com/Bhavyansh19/Leetcode/tree/main/1890-the-latest-login-in-2020/) | Easy |
