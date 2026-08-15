@@ -9,6 +9,6 @@ with res as
 
 select query_name,
 round(avg(score), 2) as quality,
-round(sum(poor_query)*100.0/count(*), 2) as poor_query_percentage
+round(avg(poor_query)*100.0, 2) as poor_query_percentage
 from res
 group by query_name;
