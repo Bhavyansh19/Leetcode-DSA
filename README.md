@@ -91,5 +91,6 @@ This repository is a collection of DSA problem solutions from LeetCode. The purp
 | [1795-rearrange-products-table](https://github.com/Bhavyansh19/Leetcode/tree/main/1795-rearrange-products-table/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/Bhavyansh19/Leetcode/tree/main/1873-calculate-special-bonus/) | Easy |
 | [1890-the-latest-login-in-2020](https://github.com/Bhavyansh19/Leetcode/tree/main/1890-the-latest-login-in-2020/) | Easy |
+| [1934-confirmation-rate](https://github.com/Bhavyansh19/Leetcode/tree/main/1934-confirmation-rate/) | Medium |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Bhavyansh19/Leetcode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
