@@ -93,6 +93,7 @@ This repository is a collection of DSA problem solutions from LeetCode. The purp
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Bhavyansh19/Leetcode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Bhavyansh19/Leetcode/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/Bhavyansh19/Leetcode/tree/main/1661-average-time-of-process-per-machine/) | Easy |
+| [1667-fix-names-in-a-table](https://github.com/Bhavyansh19/Leetcode/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/Bhavyansh19/Leetcode/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Bhavyansh19/Leetcode/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1795-rearrange-products-table](https://github.com/Bhavyansh19/Leetcode/tree/main/1795-rearrange-products-table/) | Easy |
