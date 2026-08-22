@@ -90,6 +90,7 @@ This repository is a collection of DSA problem solutions from LeetCode. The purp
 | [1251-average-selling-price](https://github.com/Bhavyansh19/Leetcode/tree/main/1251-average-selling-price/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Bhavyansh19/Leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1407-top-travellers](https://github.com/Bhavyansh19/Leetcode/tree/main/1407-top-travellers/) | Easy |
+| [1484-group-sold-products-by-the-date](https://github.com/Bhavyansh19/Leetcode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Bhavyansh19/Leetcode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Bhavyansh19/Leetcode/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/Bhavyansh19/Leetcode/tree/main/1661-average-time-of-process-per-machine/) | Easy |
