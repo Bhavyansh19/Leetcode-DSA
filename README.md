@@ -79,6 +79,7 @@ This repository is a collection of DSA problem solutions from LeetCode. The purp
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Bhavyansh19/Leetcode/tree/main/0175-combine-two-tables/) | Easy |
+| [0185-department-top-three-salaries](https://github.com/Bhavyansh19/Leetcode/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Bhavyansh19/Leetcode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0596-classes-with-at-least-5-students](https://github.com/Bhavyansh19/Leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Bhavyansh19/Leetcode/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
