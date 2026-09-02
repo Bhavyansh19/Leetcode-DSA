@@ -87,6 +87,7 @@ This repository is a collection of DSA problem solutions from LeetCode. The purp
 | [0511-game-play-analysis-i](https://github.com/Bhavyansh19/Leetcode/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Bhavyansh19/Leetcode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0584-find-customer-referee](https://github.com/Bhavyansh19/Leetcode/tree/main/0584-find-customer-referee/) | Easy |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Bhavyansh19/Leetcode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Bhavyansh19/Leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Bhavyansh19/Leetcode/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0626-exchange-seats](https://github.com/Bhavyansh19/Leetcode/tree/main/0626-exchange-seats/) | Medium |
