@@ -83,6 +83,7 @@ This repository is a collection of DSA problem solutions from LeetCode. The purp
 | [0181-employees-earning-more-than-their-managers](https://github.com/Bhavyansh19/Leetcode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0185-department-top-three-salaries](https://github.com/Bhavyansh19/Leetcode/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/Bhavyansh19/Leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0511-game-play-analysis-i](https://github.com/Bhavyansh19/Leetcode/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Bhavyansh19/Leetcode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0596-classes-with-at-least-5-students](https://github.com/Bhavyansh19/Leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Bhavyansh19/Leetcode/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
