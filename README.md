@@ -108,6 +108,7 @@ This repository is a collection of DSA problem solutions from LeetCode. The purp
 | [1667-fix-names-in-a-table](https://github.com/Bhavyansh19/Leetcode/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/Bhavyansh19/Leetcode/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Bhavyansh19/Leetcode/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/Bhavyansh19/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1795-rearrange-products-table](https://github.com/Bhavyansh19/Leetcode/tree/main/1795-rearrange-products-table/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/Bhavyansh19/Leetcode/tree/main/1873-calculate-special-bonus/) | Easy |
 | [1890-the-latest-login-in-2020](https://github.com/Bhavyansh19/Leetcode/tree/main/1890-the-latest-login-in-2020/) | Easy |
