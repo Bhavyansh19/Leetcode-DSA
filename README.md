@@ -85,6 +85,7 @@ This repository is a collection of DSA problem solutions from LeetCode. The purp
 | [0196-delete-duplicate-emails](https://github.com/Bhavyansh19/Leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/Bhavyansh19/Leetcode/tree/main/0197-rising-temperature/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/Bhavyansh19/Leetcode/tree/main/0511-game-play-analysis-i/) | Easy |
+| [0550-game-play-analysis-iv](https://github.com/Bhavyansh19/Leetcode/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Bhavyansh19/Leetcode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0584-find-customer-referee](https://github.com/Bhavyansh19/Leetcode/tree/main/0584-find-customer-referee/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Bhavyansh19/Leetcode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
