@@ -91,6 +91,7 @@ This repository is a collection of DSA problem solutions from LeetCode. The purp
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Bhavyansh19/Leetcode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Bhavyansh19/Leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Bhavyansh19/Leetcode/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
+| [0610-triangle-judgement](https://github.com/Bhavyansh19/Leetcode/tree/main/0610-triangle-judgement/) | Easy |
 | [0626-exchange-seats](https://github.com/Bhavyansh19/Leetcode/tree/main/0626-exchange-seats/) | Medium |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Bhavyansh19/Leetcode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Bhavyansh19/Leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
