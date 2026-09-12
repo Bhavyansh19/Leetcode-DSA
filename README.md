@@ -100,6 +100,7 @@ This repository is a collection of DSA problem solutions from LeetCode. The purp
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Bhavyansh19/Leetcode/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/Bhavyansh19/Leetcode/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/Bhavyansh19/Leetcode/tree/main/1251-average-selling-price/) | Easy |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Bhavyansh19/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Bhavyansh19/Leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1407-top-travellers](https://github.com/Bhavyansh19/Leetcode/tree/main/1407-top-travellers/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/Bhavyansh19/Leetcode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
