@@ -1,9 +1,7 @@
-select 
-case when max(dense_rnk)>1 then salary
-else null end
-as SecondHighestSalary
-from
-(select *, 
-dense_rank() over(order by salary desc) as dense_rnk
-from Employee) as sub_qry
-where dense_rnk = 2;
+select (
+    select distinct salary
+    from employee
+    order by salary desc
+    limit 1
+    offset 1
+) as SecondHighestSalary
